@@ -1,7 +1,7 @@
 {
   "id": "safelight.histogram",
   "name": "Histogram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Live RGB histogram of the rendered image.",
   "author": "Anthony Reimche",
   "main": "dist/index.js",

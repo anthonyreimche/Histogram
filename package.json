@@ -1,7 +1,7 @@
 {
   "name": "safelight-histogram",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Histogram extension for Safelight: the live RGB histogram of the rendered image, with draggable tonal zones.",
   "type": "module",
   "scripts": {
