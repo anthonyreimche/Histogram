@@ -20,5 +20,6 @@ export function activate(host: SafelightAPI): void {
     title: "Histogram",
     component: HistogramPanel,
     defaultDock: { module: "develop", direction: "right", order: 1, width: 280, height: 150 },
+    modules: ["develop"],
   });
 }

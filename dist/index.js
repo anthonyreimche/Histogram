@@ -130,7 +130,8 @@ function s(e) {
 			order: 1,
 			width: 280,
 			height: 150
-		}
+		},
+		modules: ["develop"]
 	});
 }
 //#endregion

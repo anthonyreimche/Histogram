@@ -18,6 +18,7 @@ describe("activate", () => {
         title: "Histogram",
         component: HistogramPanel,
         defaultDock: { module: "develop", direction: "right", order: 1, width: 280, height: 150 },
+        modules: ["develop"],
       },
     ]);
     expect(PANEL_ID).toBe("core.histogram");
